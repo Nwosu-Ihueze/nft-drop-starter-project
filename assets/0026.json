@@ -1,0 +1,28 @@
+{
+  "name": "Pack",
+  "symbol": "",
+  "image": "0026.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0026.png",
+        "type": "image/png"
+      }
+    ],
+    "attributes": [
+      {
+        "background": "white",
+        "body": "sasuke",
+        "eyes": "grin",
+        "clothes": "black",
+        "head_gear": "bonnet"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8hQatTf66DrXdJS777b72fCx9Hi974WwTWUnQV8FWwPF",
+        "share": 100
+      }
+    ]
+  }
+}

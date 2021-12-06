@@ -1,0 +1,28 @@
+{
+  "name": "Pack",
+  "symbol": "",
+  "image": "0082.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0082.png",
+        "type": "image/png"
+      }
+    ],
+    "attributes": [
+      {
+        "background": "white",
+        "body": "ash",
+        "eyes": "pissed",
+        "clothes": "yellow",
+        "head_gear": "peaky"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8hQatTf66DrXdJS777b72fCx9Hi974WwTWUnQV8FWwPF",
+        "share": 100
+      }
+    ]
+  }
+}

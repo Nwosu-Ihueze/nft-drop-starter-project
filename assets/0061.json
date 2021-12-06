@@ -1,0 +1,28 @@
+{
+  "name": "Pack",
+  "symbol": "",
+  "image": "0061.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0061.png",
+        "type": "image/png"
+      }
+    ],
+    "attributes": [
+      {
+        "background": "black",
+        "body": "silver",
+        "eyes": "angry",
+        "clothes": "coral",
+        "head_gear": "none"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8hQatTf66DrXdJS777b72fCx9Hi974WwTWUnQV8FWwPF",
+        "share": 100
+      }
+    ]
+  }
+}

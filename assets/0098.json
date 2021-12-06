@@ -1,0 +1,28 @@
+{
+  "name": "Pack",
+  "symbol": "",
+  "image": "0098.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0098.png",
+        "type": "image/png"
+      }
+    ],
+    "attributes": [
+      {
+        "background": "gradient",
+        "body": "ash",
+        "eyes": "corny",
+        "clothes": "general",
+        "head_gear": "cap"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8hQatTf66DrXdJS777b72fCx9Hi974WwTWUnQV8FWwPF",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Pack",
+  "symbol": "",
+  "image": "0052.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0052.png",
+        "type": "image/png"
+      }
+    ],
+    "attributes": [
+      {
+        "background": "black",
+        "body": "silver",
+        "eyes": "fear",
+        "clothes": "zipper",
+        "head_gear": "peaky"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8hQatTf66DrXdJS777b72fCx9Hi974WwTWUnQV8FWwPF",
+        "share": 100
+      }
+    ]
+  }
+}

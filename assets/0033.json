@@ -1,0 +1,28 @@
+{
+  "name": "Pack",
+  "symbol": "",
+  "image": "0033.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0033.png",
+        "type": "image/png"
+      }
+    ],
+    "attributes": [
+      {
+        "background": "white",
+        "body": "naruto",
+        "eyes": "angry",
+        "clothes": "turtle",
+        "head_gear": "beanie"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8hQatTf66DrXdJS777b72fCx9Hi974WwTWUnQV8FWwPF",
+        "share": 100
+      }
+    ]
+  }
+}
